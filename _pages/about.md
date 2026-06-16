@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Profile  Wang Tang"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ## Wang Tang
 
